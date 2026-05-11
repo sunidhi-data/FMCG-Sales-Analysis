@@ -29,7 +29,7 @@ across 5 global regions from 2023 to 2025.
 - Expand Wholesale partnerships
 
 ## Dashboard Preview
-![Dashboard](Power%20BI%20Dashboard.png)
+![Dashboard](FMCG%20Dashboard.png)
 
 ## Connect With Me
 LinkedIn: https://www.linkedin.com/in/sunidhi-bhardwaj-2b7749286
